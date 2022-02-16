@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains an introduction to the public transportation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-259j-transit-management-fall-2006/fbdcacbf7c70919b1fbe77eb17769803_lect01.pdf
+file: /media/courses/1-259j-transit-management-fall-2006/fbdcacbf7c70919b1fbe77eb17769803_lect01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect01.pdf
 uid: fbdcacbf-7c70-919b-1fbe-77eb17769803

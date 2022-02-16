@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Assignment to be done in teams of two.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-259j-transit-management-fall-2006/6da145dbe474fa3c8ac15369c4372d65_assn2.pdf
+file: /media/courses/1-259j-transit-management-fall-2006/6da145dbe474fa3c8ac15369c4372d65_assn2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn2.pdf
 uid: 6da145db-e474-fa3c-8ac1-5369c4372d65

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 334042d0-415f-851b-0a8c-6dd07292848b
 resourcetype: Document
 title: tsyn35.pdf
 uid: c36bafb6-5532-83dc-8f42-f427e1b2d5b6

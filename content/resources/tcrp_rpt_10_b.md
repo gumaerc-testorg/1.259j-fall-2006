@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 334042d0-415f-851b-0a8c-6dd07292848b
 resourcetype: Document
 title: tcrp_rpt_10_b.pdf
 uid: 6173d089-0a91-cdf4-bedb-05bbe2a50781

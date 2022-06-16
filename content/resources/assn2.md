@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to be done in teams of two.
-file: /media/courses/1-259j-transit-management-fall-2006/6da145dbe474fa3c8ac15369c4372d65_assn2.pdf
+file: /courses/1-259j-transit-management-fall-2006/6da145dbe474fa3c8ac15369c4372d65_assn2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: assn2.pdf
 uid: 6da145db-e474-fa3c-8ac1-5369c4372d65
 ---
+Assignment to be done in teams of two.
+

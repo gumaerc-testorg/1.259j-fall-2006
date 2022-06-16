@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an introduction to the public transportation.
-file: /media/courses/1-259j-transit-management-fall-2006/fbdcacbf7c70919b1fbe77eb17769803_lect01.pdf
+file: /courses/1-259j-transit-management-fall-2006/fbdcacbf7c70919b1fbe77eb17769803_lect01.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lect01.pdf
 uid: fbdcacbf-7c70-919b-1fbe-77eb17769803
 ---
+This resource contains an introduction to the public transportation.
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the scope, course requirements, and a grading table
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

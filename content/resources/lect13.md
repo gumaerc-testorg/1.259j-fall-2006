@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: This resource contains slides explaining budgeting.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-259j-transit-management-fall-2006/57a88805e7f6965477249554a66999fc_lect13.pdf
+file: /courses/1-259j-transit-management-fall-2006/57a88805e7f6965477249554a66999fc_lect13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
+parent_uid: c5199ea9-e6af-4dae-515d-86e4acb93657
 resourcetype: Document
 title: lect13.pdf
 uid: 57a88805-e7f6-9654-7724-9554a66999fc
 ---
+This resource contains slides explaining budgeting.

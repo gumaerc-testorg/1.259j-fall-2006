@@ -6,6 +6,7 @@ file: /courses/1-259j-transit-management-fall-2006/ef5e189f63884d027488ee91c22d5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect24ja.pdf
 uid: ef5e189f-6388-4d02-7488-ee91c22d5f4b
 ---
 This resource contains slides on office automation and communication, finance systems, planning systems, management systems, and the advanced technologies.
-

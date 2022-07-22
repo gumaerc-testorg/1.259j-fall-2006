@@ -5,6 +5,7 @@ file: /courses/1-259j-transit-management-fall-2006/fbdcacbf7c70919b1fbe77eb17769
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect01.pdf
 uid: fbdcacbf-7c70-919b-1fbe-77eb17769803
 ---
 This resource contains an introduction to the public transportation.
-

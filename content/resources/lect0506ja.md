@@ -6,6 +6,7 @@ file: /courses/1-259j-transit-management-fall-2006/b0971b686db5b7fa1869f81f7d535
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect0506ja.pdf
 uid: b0971b68-6db5-b7fa-1869-f81f7d5354bb
 ---
 This resource contains the organizational schemes types of transit contracts, contract economics, contract structure and management and case studies.
-

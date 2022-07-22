@@ -5,6 +5,7 @@ file: /courses/1-259j-transit-management-fall-2006/57a88805e7f6965477249554a6699
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect13.pdf
 uid: 57a88805-e7f6-9654-7724-9554a66999fc
 ---
 This resource contains slides explaining budgeting.
-

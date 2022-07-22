@@ -6,6 +6,7 @@ file: /courses/1-259j-transit-management-fall-2006/0a0cf6b29f65a9833c8899aac7765
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tcrp_ird_13.pdf
 uid: 0a0cf6b2-9f65-a983-3c88-99aac776560b
 ---
 This resource contains a report on the innovative finance techniques for the transit agencies.
-

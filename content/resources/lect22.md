@@ -6,6 +6,7 @@ file: /courses/1-259j-transit-management-fall-2006/f3f50535128e8fdd12a0b902ef693
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect22.pdf
 uid: f3f50535-128e-8fdd-12a0-b902ef6931e7
 ---
 This resource contains slides on the framework for program design maintainance indicators, MBTA experience.
-

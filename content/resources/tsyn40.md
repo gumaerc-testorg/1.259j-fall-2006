@@ -5,6 +5,7 @@ file: /courses/1-259j-transit-management-fall-2006/273c2eac734e4ea01a6b24906545c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tsyn40.pdf
 uid: 273c2eac-734e-4ea0-1a6b-24906545cf8b
 ---
 This resource contains a book on the challenged employment system.
-

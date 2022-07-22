@@ -6,6 +6,7 @@ file: /courses/1-259j-transit-management-fall-2006/ebe4024d4d714be9775ebe292a908
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect10fs.pdf
 uid: ebe4024d-4d71-4be9-775e-be292a9088cf
 ---
 This resource contains slides containing comparison of the bakery versus public good.
-

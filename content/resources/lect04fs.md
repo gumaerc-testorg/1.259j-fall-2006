@@ -6,6 +6,7 @@ file: /courses/1-259j-transit-management-fall-2006/3a97492b6c95edc59c4fb0846b94b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect04fs.pdf
 uid: 3a97492b-6c95-edc5-9c4f-b0846b94b7ca
 ---
 This resource contains slides lecture on MBTA, restructuring of commuter rails and urban rail transit services.
-

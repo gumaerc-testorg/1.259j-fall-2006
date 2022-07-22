@@ -5,6 +5,7 @@ file: /courses/1-259j-transit-management-fall-2006/1a99b5b1da794460e826a83cbe213
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tcrp_rpt_08_a.pdf
 uid: 1a99b5b1-da79-4460-e826-a83cbe213325
 ---
 This resource contains a roadmap for public transportaion.
-

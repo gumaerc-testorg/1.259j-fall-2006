@@ -5,6 +5,7 @@ file: /courses/1-259j-transit-management-fall-2006/7ba621a44d25504213ea869d26744
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tsyn45_intro.pdf
 uid: 7ba621a4-4d25-5042-13ea-869d267447ee
 ---
 This resource contains information on the customer-focused transit.
-

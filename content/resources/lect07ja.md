@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains roles for performance measures, TCRP report 88,
   performance audits.
 file: /courses/1-259j-transit-management-fall-2006/0f5528dfdc14dda10f21286b9f86ac0e_lect07ja.pdf
+file_size: 101313
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

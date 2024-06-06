@@ -4,6 +4,7 @@ description: This resource contains information to facilitate the safe, orderly,
   integrated movement of all traffic, including light rail vehicles (LRVs), throughout
   the public highway system, but especially at light rail transit (LRT) crossings.
 file: /courses/1-259j-transit-management-fall-2006/d4d0353850f9830bb3008e7605e15c23_tcrp_rrd_34.pdf
+file_size: 6968101
 file_type: application/pdf
 learning_resource_types:
 - Readings

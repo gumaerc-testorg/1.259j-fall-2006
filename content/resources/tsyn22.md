@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains transit cooperative research program.
 file: /courses/1-259j-transit-management-fall-2006/74e1189898ce69da6800eb7665a3234b_tsyn22.pdf
+file_size: 984017
 file_type: application/pdf
 learning_resource_types:
 - Readings

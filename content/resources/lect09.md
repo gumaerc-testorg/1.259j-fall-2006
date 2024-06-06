@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains slides on the critique of Fielding?s approach
   structure of performance measures.
 file: /courses/1-259j-transit-management-fall-2006/c5ec81a09f334eece8412dfa06855eff_lect09.pdf
+file_size: 31728
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

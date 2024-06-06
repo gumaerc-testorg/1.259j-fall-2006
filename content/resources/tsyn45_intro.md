@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on the customer-focused transit.
 file: /courses/1-259j-transit-management-fall-2006/7ba621a44d25504213ea869d267447ee_tsyn45_intro.pdf
+file_size: 3213755
 file_type: application/pdf
 learning_resource_types:
 - Readings

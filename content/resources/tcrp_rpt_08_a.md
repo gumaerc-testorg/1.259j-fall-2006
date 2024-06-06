@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a roadmap for public transportaion.
 file: /courses/1-259j-transit-management-fall-2006/1a99b5b1da794460e826a83cbe213325_tcrp_rpt_08_a.pdf
+file_size: 811215
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains an overview on the federal transit administration.
 file: /courses/1-259j-transit-management-fall-2006/69709f9f210485c26016dc3c0cba69c5_lect12rd.pdf
+file_size: 132898
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a book on the development of transit performance
   measurement system.
 file: /courses/1-259j-transit-management-fall-2006/264b239127ffce90c73a1aa8dc408bac_tcrprept88.pdf
+file_size: 4871578
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains explanation on TCRP.
-file: /courses/1-259j-transit-management-fall-2006/3c9d1ecb1f8832c676a6014f733ffca3_tsyn33.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/3c9d1ecb1f8832c676a6014f733ffca3_tsyn33.pdf
 file_size: 632187
 file_type: application/pdf
 learning_resource_types:

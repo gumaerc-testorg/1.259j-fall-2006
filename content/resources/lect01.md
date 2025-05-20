@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an introduction to the public transportation.
-file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/fbdcacbf7c70919b1fbe77eb17769803_lect01.pdf
+file: /courses/1-259j-transit-management-fall-2006/fbdcacbf7c70919b1fbe77eb17769803_lect01.pdf
 file_size: 58886
 file_type: application/pdf
 learning_resource_types:

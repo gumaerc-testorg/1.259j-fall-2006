@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a book giving an update on the technology.
-file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/c36bafb6553283dc8f42f427e1b2d5b6_tsyn35.pdf
+file: /courses/1-259j-transit-management-fall-2006/c36bafb6553283dc8f42f427e1b2d5b6_tsyn35.pdf
 file_size: 2244262
 file_type: application/pdf
 learning_resource_types:

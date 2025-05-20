@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment to be done in teams of two.
-file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/6da145dbe474fa3c8ac15369c4372d65_assn2.pdf
+file: /courses/1-259j-transit-management-fall-2006/6da145dbe474fa3c8ac15369c4372d65_assn2.pdf
 file_size: 31880
 file_type: application/pdf
 learning_resource_types:

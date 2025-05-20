@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explains the leveraging information for better transit
   maintenance.
-file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/707d3fb3238d5728e4f63e864b14fa55_tcrp_rrd_13.pdf
+file: /courses/1-259j-transit-management-fall-2006/707d3fb3238d5728e4f63e864b14fa55_tcrp_rrd_13.pdf
 file_size: 149527
 file_type: application/pdf
 learning_resource_types:

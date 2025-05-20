@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the organizational schemes types of transit contracts,
   contract economics, contract structure and management and case studies.
-file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/b0971b686db5b7fa1869f81f7d5354bb_lect0506ja.pdf
+file: /courses/1-259j-transit-management-fall-2006/b0971b686db5b7fa1869f81f7d5354bb_lect0506ja.pdf
 file_size: 51423
 file_type: application/pdf
 learning_resource_types:

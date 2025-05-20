@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives an overview on budgeting.
-file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/6d72e604105d887271e4b856b51ce3db_lect11b.pdf
+file: /courses/1-259j-transit-management-fall-2006/6d72e604105d887271e4b856b51ce3db_lect11b.pdf
 file_size: 62989
 file_type: application/pdf
 learning_resource_types:

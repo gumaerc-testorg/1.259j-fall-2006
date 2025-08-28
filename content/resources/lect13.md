@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains slides explaining budgeting.
-file: /courses/1-259j-transit-management-fall-2006/57a88805e7f6965477249554a66999fc_lect13.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/57a88805e7f6965477249554a66999fc_lect13.pdf
 file_size: 55405
 file_type: application/pdf
 learning_resource_types:

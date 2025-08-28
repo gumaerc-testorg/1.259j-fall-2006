@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains slides on labour management innovations.
-file: /courses/1-259j-transit-management-fall-2006/2c2a4c5e07ef675ca5e961052576134d_lect17.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/2c2a4c5e07ef675ca5e961052576134d_lect17.pdf
 file_size: 57441
 file_type: application/pdf
 learning_resource_types:

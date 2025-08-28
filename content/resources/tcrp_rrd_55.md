@@ -3,7 +3,7 @@ content_type: resource
 description: This resource summarizes the principles that have guided paradigm shifts
   in business and industry by describing lessons learned from the broader U.S. transportation
   sector and European transit systems.
-file: /courses/1-259j-transit-management-fall-2006/af8aed1e68544b27bd653c921302a377_tcrp_rrd_55.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/af8aed1e68544b27bd653c921302a377_tcrp_rrd_55.pdf
 file_size: 348714
 file_type: application/pdf
 learning_resource_types:

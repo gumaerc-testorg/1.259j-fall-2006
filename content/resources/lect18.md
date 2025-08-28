@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains slides on Management Rights Legislation (MBTA),
   and scheduling work rules at MBTA.
-file: /courses/1-259j-transit-management-fall-2006/2d74f501ba614617456931797d31fbfc_lect18.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/2d74f501ba614617456931797d31fbfc_lect18.pdf
 file_size: 57163
 file_type: application/pdf
 learning_resource_types:

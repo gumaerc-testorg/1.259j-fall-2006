@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains slides on the bus deregulation outside London,
   London strategy, results to date, and Edinburgh case study.
-file: /courses/1-259j-transit-management-fall-2006/d3aa794b84a92e0649ee0c0547aa1c7c_lect03.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/d3aa794b84a92e0649ee0c0547aa1c7c_lect03.pdf
 file_size: 118897
 file_type: application/pdf
 learning_resource_types:

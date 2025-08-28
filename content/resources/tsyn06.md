@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the role of performance-based measures in allocating
   funding for transit operations.
-file: /courses/1-259j-transit-management-fall-2006/736f2517a02877b9a3a05205efa20550_tsyn06.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/736f2517a02877b9a3a05205efa20550_tsyn06.pdf
 file_size: 517505
 file_type: application/pdf
 learning_resource_types:

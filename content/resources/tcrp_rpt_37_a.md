@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains a book on the market research briefing the nation's
   growth and the need to meet mobility, environmental, and energy objectives place
   demands on public transit systems.
-file: /courses/1-259j-transit-management-fall-2006/dc735787e253ca907d638fb6e5018bce_tcrp_rpt_37_a.pdf
+file: /ol-ocw-studio-app/courses/1-259j-transit-management-fall-2006/dc735787e253ca907d638fb6e5018bce_tcrp_rpt_37_a.pdf
 file_size: 988571
 file_type: application/pdf
 learning_resource_types:

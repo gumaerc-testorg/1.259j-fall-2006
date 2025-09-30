@@ -61,8 +61,8 @@ Preliminary reports to provide early awareness and encourage application of rese
 CTPP Statistics
 ---------------
 
-[Census Transportation Planning Package 2000](http://www.transtats.bts.gov/Tables.asp?DB_ID=630)
+{{% resource_link "5e4f494d-ab3b-45a1-b293-f87585ca41ec" "Census Transportation Planning Package 2000" %}}
 
 The Census Transportation Planning Package (CTPP) is a set of special tabulations from the decennial census designed for transportation planners. CTPP contains tabulations by place of residence, place of work, and for flows between home and work.
 
-CTPP 2000 is a cooperative effort sponsored by the State Departments of Transportation under a pooled funding arrangement with the American Association of State Highway and Transportation Officials (AASHTO). More information about CTPP is available at [Census Data for Transportation Planning](http://www.trbcensus.com/).
+CTPP 2000 is a cooperative effort sponsored by the State Departments of Transportation under a pooled funding arrangement with the American Association of State Highway and Transportation Officials (AASHTO). More information about CTPP is available at {{% resource_link "2b405f9b-cd79-48c1-bbee-3f141f80eea6" "Census Data for Transportation Planning" %}}.
